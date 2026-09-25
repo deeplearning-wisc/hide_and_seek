@@ -12,9 +12,9 @@ Zsolt Kira ·
 Michael Hagenow ·
 Sharon Li
 
-![Venue: NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-6842C2)
+![Venue: NeurIPS 2026][(https://img.shields.io/badge/NeurIPS-2026-6842C2)](https://neurips.cc/)
 [![arXiv: 2605.30834](https://img.shields.io/badge/arXiv-2605.30834-b31b1b)](https://arxiv.org/abs/2605.30834)
-![Code: Coming Soon](https://img.shields.io/badge/Code-Coming%20Soon-orange)
+
 
 **🚧 Code coming soon!**
 
